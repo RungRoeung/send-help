@@ -133,13 +133,13 @@ input#open {
 }
 
 .text-one:before {
-  content:"Valentine's";
+  content:"Boyfriend?";
   top:30px;
   color: #d04e4e;
 }
 
 .text-one:after {
-  content:"day!";
+  content:"";
   top:60px;
 }
 
